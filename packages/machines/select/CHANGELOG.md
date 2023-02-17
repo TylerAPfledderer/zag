@@ -1,5 +1,15 @@
 # @zag-js/select
 
+## 0.1.12
+
+### Patch Changes
+
+- Updated dependencies [[`58078617`](https://github.com/chakra-ui/zag/commit/58078617637c22756497cb6e1d90618586e55687),
+  [`5277f653`](https://github.com/chakra-ui/zag/commit/5277f65311c46e5792f605021d58b3b7e7dc3eaa)]:
+  - @zag-js/interact-outside@0.2.3
+  - @zag-js/popper@0.2.4
+  - @zag-js/core@0.2.10
+
 ## 0.1.11
 
 ### Patch Changes

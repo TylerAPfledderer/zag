@@ -1,5 +1,15 @@
 # @zag-js/date-picker
 
+## 0.0.7
+
+### Patch Changes
+
+- [`5277f653`](https://github.com/chakra-ui/zag/commit/5277f65311c46e5792f605021d58b3b7e7dc3eaa) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - Update dependencies to latest versions
+
+- Updated dependencies []:
+  - @zag-js/core@0.2.10
+
 ## 0.0.6
 
 ### Patch Changes

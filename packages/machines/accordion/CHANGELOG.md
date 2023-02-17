@@ -1,5 +1,12 @@
 # @zag-js/accordion
 
+## 0.2.12
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @zag-js/core@0.2.10
+
 ## 0.2.11
 
 ### Patch Changes

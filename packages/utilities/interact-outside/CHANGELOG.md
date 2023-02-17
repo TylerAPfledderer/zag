@@ -1,5 +1,14 @@
 # @zag-js/interact-outside
 
+## 0.2.3
+
+### Patch Changes
+
+- [`58078617`](https://github.com/chakra-ui/zag/commit/58078617637c22756497cb6e1d90618586e55687) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - - Fix issue where interaction outside doesn't work correctly with
+  the shadow dom
+  - Fix issue where clicking outside within an iframe isn't detected
+
 ## 0.2.2
 
 ### Patch Changes

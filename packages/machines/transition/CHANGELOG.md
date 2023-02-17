@@ -1,5 +1,12 @@
 # @zag-js/transition
 
+## 0.1.3
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @zag-js/core@0.2.10
+
 ## 0.1.2
 
 ### Patch Changes

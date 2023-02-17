@@ -1,5 +1,19 @@
 # @zag-js/radio-group
 
+## 0.2.0
+
+### Minor Changes
+
+- [#520](https://github.com/chakra-ui/zag/pull/520)
+  [`aeec61a7`](https://github.com/chakra-ui/zag/commit/aeec61a707832e0d89ccaf06047a85fc94581237) Thanks
+  [@visualjerk](https://github.com/visualjerk)! - Add `aria-labelledby` to radio group for improved screen reader
+  accessibility
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @zag-js/core@0.2.10
+
 ## 0.1.12
 
 ### Patch Changes

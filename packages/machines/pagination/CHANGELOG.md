@@ -1,5 +1,12 @@
 # @zag-js/pagination
 
+## 0.1.12
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @zag-js/core@0.2.10
+
 ## 0.1.11
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @zag-js/number-input
 
+## 0.2.13
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @zag-js/core@0.2.10
+
 ## 0.2.12
 
 ### Patch Changes
